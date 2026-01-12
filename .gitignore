@@ -1,0 +1,24 @@
+# Build output folders
+Debug/
+Release/
+
+# IDE settings (personal preferences)
+.settings/
+
+# CubeMX backup files
+*.bak
+*.tmp
+
+# Compiled objects
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# Debug files
+*.launch
+
+# OS files
+.DS_Store
+Thumbs.db
