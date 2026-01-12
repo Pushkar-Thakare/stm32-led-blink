@@ -22,3 +22,4 @@ Simple microcontroller project to blink onboard LED.
 ## Next Steps
 - Add button input to control LED patterns
 - Add PWM for LED brightness control
+- Add multiple leds
